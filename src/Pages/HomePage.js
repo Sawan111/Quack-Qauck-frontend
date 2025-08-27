@@ -19,7 +19,7 @@ const HomePage = () => {
     return (
         <Container maxW='xl' centerContent>
             <Box id='grad' d='flex' fontWeight='bold' justifyContent={"center"} p={3}  w={"100%"} m="40px 0 15px 0" borderRadius={"lg"} borderWidth="1px" >
-                <Text fontSize={"4xl"} fontFamily={"Work sans"} textAlign={"center"} color="white" >QuickChat</Text>
+                <Text fontSize={"4xl"} fontFamily={"Work sans"} textAlign={"center"} color="white" >Quack-Quack</Text>
             </Box>
             <Box bg="white" w="100%" p={4} borderRadius={"lg"} borderWidth={"1px"}>
                 <Tabs variant='soft-rounded'>
