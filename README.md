@@ -1,5 +1,8 @@
 #  Quack Quack Chat App 
 
+![Quack Quack Chat APP](https://github.com/Sawan111/Quack-Qauck-frontend/blob/main/public/favicon-32x32.png)
+
+
 This project was made using [Create React App](https://github.com/facebook/create-react-app).  
 
 
