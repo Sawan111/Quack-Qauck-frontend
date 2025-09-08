@@ -44,21 +44,4 @@ As a student, you don’t usually need this — the default setup works fine for
 
 ---
 
-## Learn More
-
-- [Create React App Docs](https://facebook.github.io/create-react-app/docs/getting-started)  
-- [React Docs](https://reactjs.org/)  
-
----
-
-### 🔗 Extra Topics:
-- [Code Splitting](https://facebook.github.io/create-react-app/docs/code-splitting)  
-- [Analyzing the Bundle Size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)  
-- [Making a Progressive Web App](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)  
-- [Advanced Configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)  
-- [Deployment](https://facebook.github.io/create-react-app/docs/deployment)  
-- [Build Errors (troubleshooting)](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)  
-
----
-
 ✨ Just a simple React app for learning and experimenting!
